@@ -1,4 +1,5 @@
 # 오픈소스SW개론 과제
+![연습용 이미지]https://github.com/KRhound/opensw/blob/main/free-icon-terminal-7997977.png
 ## 과제 내용
 - 리눅스 명령어 중에서 top, ps, jobs, kill 명령어에 대해서 조사해보자!
 - 조사한 내용을 자신의 github 페이지에 README 파일로 정리함
